@@ -16,17 +16,4 @@
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=andry968&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andry968&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-### 📫 Contact
-- 📧 Email: [email kamu]
-
----
-
 > "Detect. Analyze. Defend."
