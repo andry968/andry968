@@ -7,8 +7,6 @@
 
 I have around 2 years of experience exploring Blue Team and defensive security practices. My journey started through platforms like Hack The Box, picoCTF, and TryHackMe, where I built a strong foundation in security fundamentals.
 
-Currently, I am an ID-Network student, continuously improving my skills in threat detection, digital forensics, and system monitoring.
-
 I enjoy analyzing logs, investigating incidents, and understanding how attacks work from a defensive perspective.
 
 ---
