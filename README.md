@@ -3,8 +3,20 @@
 
 ---
 
+## Description
+
+I have around 2 years of experience exploring Blue Team and defensive security practices. My journey started through platforms like Hack The Box, picoCTF, and TryHackMe, where I built a strong foundation in security fundamentals.
+
+Currently, I am an ID-Network student, continuously improving my skills in threat detection, digital forensics, and system monitoring.
+
+I enjoy analyzing logs, investigating incidents, and understanding how attacks work from a defensive perspective.
+
+---
+
+## Skill
+
 - 🛡️ Focus: **Blue Team / Defensive Security**
-- 🔍 Interested in: **Threat Detection, Digital Forensics, System and Network Monitoring**
+- 🔍 Interested in: **Threat Detection, Digital Forensics, System log and Network Monitoring**
 - 🌱 Currently learning: **Log Analysis, Incident Response, SIEM**
 
 ---
