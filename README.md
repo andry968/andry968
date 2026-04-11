@@ -20,38 +20,21 @@ I’m a defensive security learner with around **2 years of hands-on experience*
 I genuinely enjoy:
 - 📜 Analyzing logs to uncover anomalies  
 - 🕵️ Investigating incidents from a defender’s perspective  
-- 🧠 Understanding how attacks work so I can better defend against them  
+- 🧠 Understanding how attacks work so I can better defend against them
 
 ---
 
-## Core Competencies
+```bash
+┌──(root㉿debian)-[~/arsenal]
+└─$ ls -l --category
 
-| Area | Focus |
-|------|-------|
-| **Blue Team** | Threat detection, defensive strategies, incident response |
-| **Digital Forensics** | Artifact analysis, timeline reconstruction, evidence handling |
-| **Network Monitoring** | Traffic analysis, protocol inspection, anomaly detection |
-| **System Log Analysis** | Syslog, audit logs, Windows Event Logs, application logs |
+[+] OS               : Linux Debian (Daily Driver)
+[+] Network          : Wireshark, tcpdump
+[+] Forensics        : Autopsy, The Sleuth Kit
+[+] SIEM & Monitor   : Wazuh [LEARNING]
+[+] Misc             : grep, awk, sed, Bash, Troubleshooting
 
----
-
-## Tools & Environment
-
-| Category | Tools / Tech |
-|----------|---------------|
-| **OS** | Linux (Debian) daily driver |
-| **Network Analysis** | Wireshark, tcpdump |
-| **Forensics** | Autopsy, The Sleuth Kit |
-| **SIEM & Monitoring** | Wazuh (learning) |
-| **Misc** | Log parsing (grep/awk), bash scripting, troubleshooting |
-
----
-
-## Currently Learning
-
-- 📊 **SIEM** - Building correlation rules and dashboards (Wazuh)  
-- 🚨 **Incident Response** - Full lifecycle: preparation → detection → recovery  
-- 🔍 **Advanced Log Analysis** - Parsing Windows Event Logs, JSON logs, and custom formats  
+```
 
 ---
 
@@ -63,12 +46,6 @@ I genuinely enjoy:
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=andry968&theme=cobalt&bg_color=0D1117&hide_border=true&area=true&area_color=1F6FEB&line=58A6FF&point=FFFFFF&custom_title=Contribution%20Activity%20Timeline" width="100%" />
 </p>
 
----
-
-## Let’s Connect
-
-- 📫 Reach me: [andrysm314@gmail.com](mailto:andrysm314@gmail.com) 
-- 🔗 Insta: [andry_2511](https://www.instagram.com/andry_2511)  
-- 📃 Medium: [@yrddry79](https://medium.com/@yrddry79)  
-
-> “Detect. Analyze. Defend"
+<p align="center">
+  “Detect. Analyze. Defend"
+</p>
