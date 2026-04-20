@@ -1,4 +1,4 @@
-<h1 align="center">Andry De Reva</h1>
+<h1 align="center">Andry Muh Ivan De Reva</h1>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=white&center=true&vCenter=true&width=600&lines=Cybersecurity+Enthusiast+|+Defensive+Security;Log+Analyst+|+DFIR+|+Threat+Hunting;Capture+The+Flag" alt="Typing SVG" />
 </p>
