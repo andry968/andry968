@@ -46,6 +46,30 @@ I genuinely enjoy:
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=andry968&theme=cobalt&bg_color=0D1117&hide_border=true&area=true&area_color=1F6FEB&line=58A6FF&point=FFFFFF&custom_title=Contribution%20Activity%20Timeline" width="100%" />
 </p>
 
+## Support :)
+
+If you find my projects helpful, you can send some SOL every bit is appreciated!
+
+<table>
+  <tr>
+    <td valign="top">
+
+**◎ Solana (SOL)**
+```
+7p9uoaDeVSwXdMnN6FWaSPJDenqcDabxwbwKnz2W9D2Y
+```
+
+[![Solana](https://img.shields.io/badge/Solana-9945FF?style=for-the-badge&logo=solana&logoColor=white)](https://solscan.io/account/7p9uoaDeVSwXdMnN6FWaSPJDenqcDabxwbwKnz2W9D2Y)
+
+  </td>
+    <td valign="top">
+      <img src="https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=7p9uoaDeVSwXdMnN6FWaSPJDenqcDabxwbwKnz2W9D2Y&color=ffffff&bgcolor=0d1117" width="150" alt="Solana QR Code"/>
+    </td>
+  </tr>
+</table>
+
+> ⚠️ Only **SOL or SPL tokens** on the **Solana network** to this address.
+
 <p align="center">
   “Detect. Analyze. Defend"
 </p>
