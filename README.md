@@ -11,7 +11,7 @@
   <img src="https://komarev.com/ghpvc/?username=andry968&label=Profile%20views&color=green&style=flat" />
 </p>
 
----
+<br>
 
 ## About Me
 
@@ -40,15 +40,25 @@ I genuinely enjoy:
 
 ## GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=andry968&theme=dark&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakNum=FFFFFF" width="48%">
+<br>
+
+<div align="center">
+
+![Skills](https://skillicons.dev/icons?i=linux,windows,arduino,github,vscode,debian,nginx,mysql,powershell,py,bash,discord,spotify,instagram&theme=dark)
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andry968&layout=compact&theme=dark&hide_border=true&bg_color=0D1117" height="200"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=andry968&theme=dark&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakNum=FFFFFF" height="200"/>
+
+</div>
   <br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=andry968&theme=cobalt&bg_color=0D1117&hide_border=true&area=true&area_color=1F6FEB&line=58A6FF&point=FFFFFF&custom_title=Contribution%20Activity%20Timeline" width="100%" />
 </p>
 
-## Support :)
+---
 
-If you find my projects helpful, you can send some SOL every bit is appreciated!
+## Support Me
+
+If you find my projects helpful, and you want to buy me coffee, you may send some SOL. Every bit is appreciated :)
 
 <table>
   <tr>
@@ -68,7 +78,9 @@ If you find my projects helpful, you can send some SOL every bit is appreciated!
   </tr>
 </table>
 
-> ⚠️ Only **SOL or SPL tokens** on the **Solana network** to this address.
+> ⚠️ Only **SOL or SPL tokens** on the **Solana network** to this address. Thanks!
+
+<br>
 
 <p align="center">
   “Detect. Analyze. Defend"
