@@ -46,8 +46,8 @@ I genuinely enjoy:
 
 ![Skills](https://skillicons.dev/icons?i=linux,windows,arduino,github,vscode,debian,nginx,mysql,powershell,py,bash,discord,spotify,instagram&theme=dark)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andry968&layout=compact&theme=dark&hide_border=true&bg_color=0D1117" height="200"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=andry968&theme=dark&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakNum=FFFFFF" height="200"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andry968&layout=compact&theme=dark&hide_border=true&bg_color=0D1117" height="155"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=andry968&theme=dark&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakNum=FFFFFF" height="155"/>
 
 </div>
   <br>
