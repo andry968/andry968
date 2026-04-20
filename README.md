@@ -4,9 +4,9 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-Blue%20Team-blue?style=flat-square&logo=shield">
+  <img src="https://img.shields.io/badge/Focus-Blue%20Team-cyan?style=flat-square&logo=shield">
   <img src="https://img.shields.io/badge/OS-Linux%20(Debian)-red?style=flat-square&logo=debian">
-  <img src="https://img.shields.io/badge/Tools-Wireshark%20%7C%20Autopsy%20%7C%20Wazuh-orange?style=flat-square">
+  <img src="https://img.shields.io/badge/Tools-WiresharK%20%7C%20Wazuh-blue?style=flat-square">
   <img src="https://img.shields.io/badge/Learning-SIEM%20%26%20IR-white?style=flat-square">
   <img src="https://komarev.com/ghpvc/?username=andry968&label=Profile%20views&color=green&style=flat" />
 </p>
@@ -46,8 +46,9 @@ I genuinely enjoy:
 
 ![Skills](https://skillicons.dev/icons?i=linux,windows,arduino,github,vscode,debian,nginx,mysql,powershell,py,bash,discord,spotify,instagram&theme=dark)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andry968&layout=compact&theme=dark&hide_border=true&bg_color=0D1117" height="155"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=andry968&theme=dark&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakNum=FFFFFF" height="155"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andry968&layout=compact&theme=dark&hide_border=true&bg_color=0D1117" width="45%"/>
+&nbsp;
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=andry968&theme=dark&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakNum=FFFFFF" width="45%"/>
 
 </div>
   <br>
