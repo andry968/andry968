@@ -57,32 +57,6 @@ I genuinely enjoy:
 
 ---
 
-## Support Me
-
-If you find my projects helpful, and you want to buy me coffee, you may send some SOL. Every bit is appreciated :)
-
-<table>
-  <tr>
-    <td valign="top">
-
-**◎ Solana (SOL)**
-```
-7p9uoaDeVSwXdMnN6FWaSPJDenqcDabxwbwKnz2W9D2Y
-```
-
-[![Solana](https://img.shields.io/badge/Solana-9945FF?style=for-the-badge&logo=solana&logoColor=white)](https://solscan.io/account/7p9uoaDeVSwXdMnN6FWaSPJDenqcDabxwbwKnz2W9D2Y)
-
-  </td>
-    <td valign="top">
-      <img src="https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=7p9uoaDeVSwXdMnN6FWaSPJDenqcDabxwbwKnz2W9D2Y&color=ffffff&bgcolor=0d1117" width="150" alt="Solana QR Code"/>
-    </td>
-  </tr>
-</table>
-
-> ⚠️ Only **SOL or SPL tokens** on the **Solana network** to this address. Thanks!
-
-<br>
-
 <p align="center">
   “Detect. Analyze. Defend"
 </p>
