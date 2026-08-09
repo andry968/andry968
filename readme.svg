@@ -1,0 +1,90 @@
+<svg width="900" height="660" viewBox="0 0 900 660" xmlns="http://www.w3.org/2000/svg">
+  <rect width="900" height="660" rx="18" fill="#0D1117"/>
+  <rect x="1" y="1" width="898" height="658" rx="18" fill="none" stroke="#30363D"/>
+
+  <!-- terminal bar -->
+  <circle cx="28" cy="28" r="6" fill="#FF5F56"/>
+  <circle cx="48" cy="28" r="6" fill="#FFBD2E"/>
+  <circle cx="68" cy="28" r="6" fill="#27C93F"/>
+  <text x="450" y="33" text-anchor="middle" fill="#8B949E" font-family="monospace" font-size="13">root@debian: ~/andry</text>
+  <line x1="0" y1="48" x2="900" y2="48" stroke="#30363D"/>
+
+  <!-- title -->
+  <text x="450" y="90" text-anchor="middle" fill="#58A6FF" font-family="monospace" font-size="26" font-weight="bold">ANDRY MUH IVAN DE REVA</text>
+
+  <!-- typing tagline (3 phrases cycling) -->
+  <g font-family="monospace" font-size="16" fill="#C9D1D9">
+    <text x="450" y="120" text-anchor="middle">
+      <tspan>
+        <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.02;0.08;0.30;0.34;1" dur="9s" repeatCount="indefinite"/>
+        System Admin | Networking
+      </tspan>
+    </text>
+    <text x="450" y="120" text-anchor="middle">
+      <tspan>
+        <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.34;0.36;0.64;0.66;1" dur="9s" repeatCount="indefinite"/>
+        Log Analysis | DFIR | Threat Hunting
+      </tspan>
+    </text>
+    <text x="450" y="120" text-anchor="middle">
+      <tspan>
+        <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.66;0.68;0.98;1" dur="9s" repeatCount="indefinite"/>
+        Cloud &amp; Infrastructure Enthusiast
+      </tspan>
+    </text>
+  </g>
+
+  <!-- badges -->
+  <g font-family="monospace" font-size="12" font-weight="bold">
+    <rect x="120" y="145" width="130" height="26" rx="13" fill="#1F6FEB"/>
+    <text x="185" y="162" text-anchor="middle" fill="#FFFFFF">SOC | DFIR</text>
+
+    <rect x="265" y="145" width="150" height="26" rx="13" fill="#DA3633"/>
+    <text x="340" y="162" text-anchor="middle" fill="#FFFFFF">SYSTEM ADMIN</text>
+
+    <rect x="430" y="145" width="140" height="26" rx="13" fill="#238636"/>
+    <text x="500" y="162" text-anchor="middle" fill="#FFFFFF">NETWORKING</text>
+
+    <rect x="585" y="145" width="100" height="26" rx="13" fill="#8957E5"/>
+    <text x="635" y="162" text-anchor="middle" fill="#FFFFFF">CLOUD</text>
+  </g>
+
+  <line x1="35" y1="195" x2="865" y2="195" stroke="#30363D"/>
+
+  <!-- about me -->
+  <text x="35" y="225" fill="#58A6FF" font-family="monospace" font-size="16" font-weight="bold">## About Me</text>
+  <text x="35" y="252" fill="#C9D1D9" font-family="monospace" font-size="14">📜 Managing systems, networks, and cloud infrastructure</text>
+  <text x="35" y="277" fill="#C9D1D9" font-family="monospace" font-size="14">🕵️ Analyzing logs and investigating incidents as a defender</text>
+  <text x="35" y="302" fill="#C9D1D9" font-family="monospace" font-size="14">🧠 Understanding how systems work end-to-end to defend them</text>
+
+  <line x1="35" y1="325" x2="865" y2="325" stroke="#30363D"/>
+
+  <!-- arsenal terminal block -->
+  <text x="35" y="352" fill="#8B949E" font-family="monospace" font-size="14">┌──(root@debian)-[~/arsenal]</text>
+  <text x="35" y="376" fill="#FFFFFF" font-family="monospace" font-size="14">└─$ <tspan fill="#58A6FF">ls -l --category</tspan></text>
+
+  <g font-family="monospace" font-size="13">
+    <text x="55" y="401" fill="#3FB950">[+] OS         : Windows 11, Linux Debian (Daily Driver)</text>
+    <text x="55" y="422" fill="#FFFFFF">[+] Network    : Wireshark, Tshark, Suricata</text>
+    <text x="55" y="443" fill="#FFFFFF">[+] Forensics  : Autopsy, EVTX</text>
+    <text x="55" y="464" fill="#FFFFFF">[+] SIEM       : Wazuh, Sentinel</text>
+    <text x="55" y="485" fill="#FFFFFF">[+] Cloud      : Azure, OCI</text>
+    <text x="55" y="506" fill="#FFFFFF">[+] Prog &amp; DB  : Bash, PowerShell, Python, MySQL</text>
+    <text x="55" y="527" fill="#FFFFFF">[+] Other      : Crowdsec, Nginx/Apache2, Wireguard</text>
+  </g>
+
+  <!-- status check -->
+  <text x="35" y="558" fill="#8B949E" font-family="monospace" font-size="14">└─$ <tspan fill="#58A6FF">systemctl status infra</tspan></text>
+  <text x="55" y="580" fill="#C9D1D9" font-family="monospace" font-size="13">● infra.service - Infrastructure Monitor</text>
+
+  <circle cx="75" cy="597" r="5" fill="#3FB950">
+    <animate attributeName="opacity" values="1;0.2;1" dur="1.2s" repeatCount="indefinite"/>
+  </circle>
+  <text x="90" y="602" fill="#3FB950" font-family="monospace" font-size="13">Active: ACTIVE (RUNNING)</text>
+
+  <!-- scanning bar -->
+  <rect x="35" y="618" width="830" height="6" rx="3" fill="#21262D"/>
+  <rect x="35" y="618" width="110" height="6" rx="3" fill="#58A6FF">
+    <animate attributeName="x" values="35;755;35" dur="3s" repeatCount="indefinite"/>
+  </rect>
+</svg>
