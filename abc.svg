@@ -1,0 +1,100 @@
+<svg width="900" height="660" viewBox="0 0 900 660" xmlns="http://www.w3.org/2000/svg">
+  <rect width="900" height="660" rx="18" fill="#0D1117"/>
+  <rect x="1" y="1" width="898" height="658" rx="18" fill="none" stroke="#30363D"/>
+
+  <!-- terminal bar -->
+  <circle cx="28" cy="28" r="6" fill="#FF5F56"/>
+  <circle cx="48" cy="28" r="6" fill="#FFBD2E"/>
+  <circle cx="68" cy="28" r="6" fill="#27C93F"/>
+  <text x="450" y="33" text-anchor="middle" fill="#8B949E" font-family="monospace" font-size="13">root@debian: ~/andry</text>
+  <line x1="0" y1="48" x2="900" y2="48" stroke="#30363D"/>
+
+  <!-- ASCII Debian swirl (left, red) -->
+  <text x="20" y="85" font-family="monospace" font-size="6.5" fill="#F85149" xml:space="preserve"><tspan x="20" dy="0">#####</tspan><tspan x="20" dy="6.5">                                        ###########  ##    #</tspan><tspan x="20" dy="6.5">                                    ##############################</tspan><tspan x="20" dy="6.5">                                ######################################</tspan><tspan x="20" dy="6.5">                             ################################################</tspan><tspan x="20" dy="6.5">                          #######################################################</tspan><tspan x="20" dy="6.5">                       #############################################################</tspan><tspan x="20" dy="6.5">                     ########################                 ########################</tspan><tspan x="20" dy="6.5">                   ######################                           ####################</tspan><tspan x="20" dy="6.5">                 ######################                                 ##################</tspan><tspan x="20" dy="6.5">               ##################                                         #################</tspan><tspan x="20" dy="6.5">              #################                                             #################</tspan><tspan x="20" dy="6.5">             ################                                                 ################</tspan><tspan x="20" dy="6.5">            #############                                                      ################</tspan><tspan x="20" dy="6.5">     ##    ############                                                          ###############</tspan><tspan x="20" dy="6.5">     #    ###########                                                             ##############</tspan><tspan x="20" dy="6.5">        ###########                                                                ########  ###</tspan><tspan x="20" dy="6.5">       ##########                                                                   ######### ##</tspan><tspan x="20" dy="6.5">      ##########                                   ############                     #########  #</tspan><tspan x="20" dy="6.5">  ## ##########                                ####################                  #########  #</tspan><tspan x="20" dy="6.5">  #  ##########                              #######              ###                #########  ##</tspan><tspan x="20" dy="6.5">    #########                               #####                    #               ########    #</tspan><tspan x="20" dy="6.5">    #########                             #####                                       #########</tspan><tspan x="20" dy="6.5">   #########                             ####                                         ########</tspan><tspan x="20" dy="6.5">   ########                             ####                                          #########</tspan><tspan x="20" dy="6.5">   ########                             ###                                           #########</tspan><tspan x="20" dy="6.5">   #######                             ####                             ##            #########</tspan><tspan x="20" dy="6.5">   #######                            ####                               #            ########</tspan><tspan x="20" dy="6.5">   #######                            ####                                           #########</tspan><tspan x="20" dy="6.5">   #######                            #####                                           ####### #</tspan><tspan x="20" dy="6.5">   #######                            #####                                          ######## #</tspan><tspan x="20" dy="6.5">   #######                             ####                          ###             ######   #</tspan><tspan x="20" dy="6.5">   #######                             #####                         ##            #######   #</tspan><tspan x="20" dy="6.5">   #######                             ######                                     ########</tspan><tspan x="20" dy="6.5">   #######                             ######             ######                  ##### #</tspan><tspan x="20" dy="6.5">   #######                              #######                                 ######</tspan><tspan x="20" dy="6.5">   ########                          ##  #######                              ########</tspan><tspan x="20" dy="6.5">    #######                           ####  ######                        # #######</tspan><tspan x="20" dy="6.5">    #######                             # ### #######                   #########</tspan><tspan x="20" dy="6.5">    ########                                ### #########          ############</tspan><tspan x="20" dy="6.5">     #######                                  ##############################</tspan><tspan x="20" dy="6.5">     ########                                   ##### ##################</tspan><tspan x="20" dy="6.5">     ##########                                     ######</tspan><tspan x="20" dy="6.5">      ###########                                         ########</tspan><tspan x="20" dy="6.5">       ###########</tspan><tspan x="20" dy="6.5">        ###########</tspan><tspan x="20" dy="6.5">         #########</tspan><tspan x="20" dy="6.5">         ###########</tspan><tspan x="20" dy="6.5">          ##########</tspan><tspan x="20" dy="6.5">           ##########</tspan><tspan x="20" dy="6.5">            #########</tspan><tspan x="20" dy="6.5">              #########</tspan><tspan x="20" dy="6.5">               #########</tspan><tspan x="20" dy="6.5">                 #########</tspan><tspan x="20" dy="6.5">                  #########</tspan><tspan x="20" dy="6.5">                    ########</tspan><tspan x="20" dy="6.5">                     ##########</tspan><tspan x="20" dy="6.5">                       ##########</tspan><tspan x="20" dy="6.5">                         ##########</tspan><tspan x="20" dy="6.5">                            ########</tspan><tspan x="20" dy="6.5">                              ######### #</tspan><tspan x="20" dy="6.5">                                 ##########</tspan><tspan x="20" dy="6.5">                                     ########</tspan><tspan x="20" dy="6.5">                                         ########</tspan><tspan x="20" dy="6.5">                                                #########</tspan></text>
+
+  <!-- Right column: header -->
+  <text x="430" y="92" fill="#58A6FF" font-family="monospace" font-size="16" font-weight="bold">ANDRY MUH IVAN DE REVA</text>
+
+  <!-- tagline cycling -->
+  <g font-family="monospace" font-size="11" fill="#C9D1D9">
+    <text x="430" y="114">
+      <tspan>
+        <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.02;0.08;0.30;0.34;1" dur="9s" repeatCount="indefinite"/>
+        System Admin | Networking
+      </tspan>
+    </text>
+    <text x="430" y="114">
+      <tspan>
+        <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.34;0.36;0.64;0.66;1" dur="9s" repeatCount="indefinite"/>
+        Log Analysis | DFIR | Threat Hunting
+      </tspan>
+    </text>
+    <text x="430" y="114">
+      <tspan>
+        <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.66;0.68;0.98;1" dur="9s" repeatCount="indefinite"/>
+        Cloud &amp; Infrastructure Enthusiast
+      </tspan>
+    </text>
+  </g>
+
+  <!-- badges row 1 -->
+  <g font-family="monospace" font-size="9" font-weight="bold">
+    <rect x="430" y="130" width="92" height="20" rx="10" fill="#1F6FEB"/>
+    <text x="476" y="144" text-anchor="middle" fill="#FFFFFF">SOC | DFIR</text>
+
+    <rect x="532" y="130" width="115" height="20" rx="10" fill="#DA3633"/>
+    <text x="589.5" y="144" text-anchor="middle" fill="#FFFFFF">SYSTEM ADMIN</text>
+  </g>
+
+  <!-- badges row 2 -->
+  <g font-family="monospace" font-size="9" font-weight="bold">
+    <rect x="430" y="156" width="105" height="20" rx="10" fill="#238636"/>
+    <text x="482.5" y="170" text-anchor="middle" fill="#FFFFFF">NETWORKING</text>
+
+    <rect x="545" y="156" width="72" height="20" rx="10" fill="#8957E5"/>
+    <text x="581" y="170" text-anchor="middle" fill="#FFFFFF">CLOUD</text>
+
+    <rect x="627" y="156" width="72" height="20" rx="10" fill="#BF3989"/>
+    <text x="663" y="170" text-anchor="middle" fill="#FFFFFF">PWN</text>
+  </g>
+
+  <line x1="430" y1="200" x2="875" y2="200" stroke="#30363D"/>
+
+  <!-- about -->
+  <text x="430" y="222" fill="#58A6FF" font-family="monospace" font-size="12" font-weight="bold">## About Me</text>
+  <text x="430" y="244" fill="#C9D1D9" font-family="monospace" font-size="10.5">📜 Managing systems, networks, and cloud infrastructure</text>
+  <text x="430" y="264" fill="#C9D1D9" font-family="monospace" font-size="10.5">🕵️ Analyzing logs and investigating incidents as a defender</text>
+  <text x="430" y="284" fill="#C9D1D9" font-family="monospace" font-size="10.5">🧠 Understanding how systems work end-to-end to defend them</text>
+
+  <line x1="430" y1="305" x2="875" y2="305" stroke="#30363D"/>
+
+  <!-- arsenal -->
+  <text x="430" y="328" fill="#8B949E" font-family="monospace" font-size="10.5">┌──(root@debian)-[~/arsenal]</text>
+  <text x="430" y="348" fill="#FFFFFF" font-family="monospace" font-size="10.5">└─$ <tspan fill="#58A6FF">ls -l --category</tspan></text>
+
+  <g font-family="monospace" font-size="9.5">
+    <text x="448" y="372" fill="#3FB950">[+] OS         : Windows 11, Linux Debian (Daily Driver)</text>
+    <text x="448" y="390" fill="#FFFFFF">[+] Network    : Wireshark, Tshark, Suricata, Mikrotik</text>
+    <text x="448" y="408" fill="#FFFFFF">[+] Forensics  : Autopsy, EVTX</text>
+    <text x="448" y="426" fill="#FFFFFF">[+] SIEM       : Wazuh, Sentinel</text>
+    <text x="448" y="444" fill="#FFFFFF">[+] Pwn        : GDB, pwntools, Ghidra</text>
+    <text x="448" y="462" fill="#FFFFFF">[+] Cloud      : Azure, OCI</text>
+    <text x="448" y="480" fill="#FFFFFF">[+] Prog &amp; DB  : Bash, PowerShell, Python, C, MySQL</text>
+    <text x="448" y="498" fill="#FFFFFF">[+] Other      : Crowdsec, Nginx/Apache2, Wireguard</text>
+  </g>
+
+  <!-- status check -->
+  <text x="430" y="524" fill="#8B949E" font-family="monospace" font-size="10.5">└─$ <tspan fill="#58A6FF">systemctl status infra</tspan></text>
+  <text x="448" y="544" fill="#C9D1D9" font-family="monospace" font-size="9.5">● infra.service - Infrastructure Monitor</text>
+
+  <circle cx="452" cy="560" r="4" fill="#3FB950">
+    <animate attributeName="opacity" values="1;0.2;1" dur="1.2s" repeatCount="indefinite"/>
+  </circle>
+  <text x="464" y="564" fill="#3FB950" font-family="monospace" font-size="9.5">Active: ACTIVE (RUNNING)</text>
+
+  <!-- scanning bar -->
+  <rect x="430" y="590" width="445" height="6" rx="3" fill="#21262D"/>
+  <rect x="430" y="590" width="75" height="6" rx="3" fill="#58A6FF">
+    <animate attributeName="x" values="430;800;430" dur="3s" repeatCount="indefinite"/>
+  </rect>
+</svg>
