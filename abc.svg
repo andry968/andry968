@@ -9,23 +9,23 @@
   <text x="450" y="33" text-anchor="middle" fill="#8B949E" font-family="monospace" font-size="13">root@debian: ~/andry</text>
   <line x1="0" y1="48" x2="900" y2="48" stroke="#30363D"/>
 
-  <!-- ===== TOP SECTION (centered, large) ===== -->
-  <text x="450" y="92" text-anchor="middle" fill="#58A6FF" font-family="monospace" font-size="26" font-weight="bold">ANDRY MUH IVAN DE REVA</text>
+  <!-- ===== TOP: centered large header ===== -->
+  <text x="450" y="88" text-anchor="middle" fill="#58A6FF" font-family="monospace" font-size="26" font-weight="bold">ANDRY MUH IVAN DE REVA</text>
 
   <g font-family="monospace" font-size="16" fill="#C9D1D9">
-    <text x="450" y="122" text-anchor="middle">
+    <text x="450" y="118" text-anchor="middle">
       <tspan>
         <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.02;0.08;0.30;0.34;1" dur="9s" repeatCount="indefinite"/>
         System Admin | Networking
       </tspan>
     </text>
-    <text x="450" y="122" text-anchor="middle">
+    <text x="450" y="118" text-anchor="middle">
       <tspan>
         <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.34;0.36;0.64;0.66;1" dur="9s" repeatCount="indefinite"/>
         Log Analysis | DFIR | Threat Hunting
       </tspan>
     </text>
-    <text x="450" y="122" text-anchor="middle">
+    <text x="450" y="118" text-anchor="middle">
       <tspan>
         <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.66;0.68;0.98;1" dur="9s" repeatCount="indefinite"/>
         Cloud &amp; Infrastructure Enthusiast
@@ -35,143 +35,80 @@
 
   <!-- badges -->
   <g font-family="monospace" font-size="12" font-weight="bold">
-    <rect x="120" y="145" width="130" height="26" rx="13" fill="#1F6FEB"/>
-    <text x="185" y="162" text-anchor="middle" fill="#FFFFFF">SOC | DFIR</text>
+    <rect x="110" y="140" width="130" height="26" rx="13" fill="#1F6FEB"/>
+    <text x="175" y="157" text-anchor="middle" fill="#FFFFFF">SOC | DFIR</text>
 
-    <rect x="265" y="145" width="150" height="26" rx="13" fill="#DA3633"/>
-    <text x="340" y="162" text-anchor="middle" fill="#FFFFFF">SYSTEM ADMIN</text>
+    <rect x="255" y="140" width="150" height="26" rx="13" fill="#DA3633"/>
+    <text x="330" y="157" text-anchor="middle" fill="#FFFFFF">SYSTEM ADMIN</text>
 
-    <rect x="430" y="145" width="140" height="26" rx="13" fill="#238636"/>
-    <text x="500" y="162" text-anchor="middle" fill="#FFFFFF">NETWORKING</text>
+    <rect x="420" y="140" width="140" height="26" rx="13" fill="#238636"/>
+    <text x="490" y="157" text-anchor="middle" fill="#FFFFFF">NETWORKING</text>
 
-    <rect x="585" y="145" width="100" height="26" rx="13" fill="#8957E5"/>
-    <text x="635" y="162" text-anchor="middle" fill="#FFFFFF">CLOUD</text>
+    <rect x="575" y="140" width="100" height="26" rx="13" fill="#8957E5"/>
+    <text x="625" y="157" text-anchor="middle" fill="#FFFFFF">CLOUD</text>
 
-    <rect x="700" y="145" width="80" height="26" rx="13" fill="#BF3989"/>
-    <text x="740" y="162" text-anchor="middle" fill="#FFFFFF">PWN</text>
+    <rect x="690" y="140" width="100" height="26" rx="13" fill="#BF3989"/>
+    <text x="740" y="157" text-anchor="middle" fill="#FFFFFF">PWN</text>
   </g>
 
-  <line x1="35" y1="195" x2="865" y2="195" stroke="#30363D"/>
+  <line x1="35" y1="182" x2="865" y2="182" stroke="#30363D"/>
 
-  <!-- about me (centered) -->
-  <text x="450" y="225" text-anchor="middle" fill="#58A6FF" font-family="monospace" font-size="16" font-weight="bold">## About Me</text>
-  <text x="450" y="255" text-anchor="middle" fill="#C9D1D9" font-family="monospace" font-size="14">📜 Managing systems, networks, and cloud infrastructure</text>
-  <text x="450" y="280" text-anchor="middle" fill="#C9D1D9" font-family="monospace" font-size="14">🕵️ Analyzing logs and investigating incidents as a defender</text>
-  <text x="450" y="305" text-anchor="middle" fill="#C9D1D9" font-family="monospace" font-size="14">🧠 Understanding how systems work end-to-end to defend them</text>
+  <!-- about me (flowing paragraph, no bullets) -->
+  <text x="450" y="208" text-anchor="middle" fill="#58A6FF" font-family="monospace" font-size="16" font-weight="bold">## About Me</text>
+  <text x="450" y="234" text-anchor="middle" fill="#C9D1D9" font-family="monospace" font-size="13">
+    System administrator <tspan fill="#3FB950">&amp; defender</tspan> — managing systems, networks, and cloud
+  </text>
+  <text x="450" y="254" text-anchor="middle" fill="#C9D1D9" font-family="monospace" font-size="13">
+    infrastructure, <tspan fill="#58A6FF">analyzing logs</tspan> and <tspan fill="#58A6FF">investigating incidents</tspan> to secure every layer.
+  </text>
 
   <!-- animated scanning bar between About Me and Neofetch -->
-  <rect x="35" y="330" width="830" height="6" rx="3" fill="#21262D"/>
-  <rect x="35" y="330" width="110" height="6" rx="3" fill="#58A6FF">
+  <rect x="35" y="274" width="830" height="5" rx="2.5" fill="#21262D"/>
+  <rect x="35" y="274" width="110" height="5" rx="2.5" fill="#58A6FF">
     <animate attributeName="x" values="35;755;35" dur="3s" repeatCount="indefinite"/>
   </rect>
 
   <!-- ===== NEOFETCH SECTION ===== -->
-  <!-- ASCII Debian (left, red) -->
-  <text x="25" y="372" font-family="monospace" font-size="4.4" fill="#F85149" xml:space="preserve">
-    <tspan x="25" dy="0">#####</tspan>
-    <tspan x="25" dy="4.4">                                        ###########  ##    #</tspan>
-    <tspan x="25" dy="4.4">                                    ##############################</tspan>
-    <tspan x="25" dy="4.4">                                ######################################</tspan>
-    <tspan x="25" dy="4.4">                             ################################################</tspan>
-    <tspan x="25" dy="4.4">                          #######################################################</tspan>
-    <tspan x="25" dy="4.4">                       #############################################################</tspan>
-    <tspan x="25" dy="4.4">                     ########################                 ########################</tspan>
-    <tspan x="25" dy="4.4">                   ######################                           ####################</tspan>
-    <tspan x="25" dy="4.4">                 ######################                                 ##################</tspan>
-    <tspan x="25" dy="4.4">               ##################                                         #################</tspan>
-    <tspan x="25" dy="4.4">              #################                                             #################</tspan>
-    <tspan x="25" dy="4.4">             ################                                                 ################</tspan>
-    <tspan x="25" dy="4.4">            #############                                                      ################</tspan>
-    <tspan x="25" dy="4.4">     ##    ############                                                          ###############</tspan>
-    <tspan x="25" dy="4.4">     #    ###########                                                             ##############</tspan>
-    <tspan x="25" dy="4.4">        ###########                                                                ########  ###</tspan>
-    <tspan x="25" dy="4.4">       ##########                                                                   ######### ##</tspan>
-    <tspan x="25" dy="4.4">      ##########                                   ############                     #########  #</tspan>
-    <tspan x="25" dy="4.4">  ## ##########                                ####################                  #########  #</tspan>
-    <tspan x="25" dy="4.4">  #  ##########                              #######              ###                #########  ##</tspan>
-    <tspan x="25" dy="4.4">    #########                               #####                    #               ########    #</tspan>
-    <tspan x="25" dy="4.4">    #########                             #####                                       #########</tspan>
-    <tspan x="25" dy="4.4">   #########                             ####                                         ########</tspan>
-    <tspan x="25" dy="4.4">   ########                             ####                                          #########</tspan>
-    <tspan x="25" dy="4.4">   ########                             ###                                           #########</tspan>
-    <tspan x="25" dy="4.4">   #######                             ####                             ##            #########</tspan>
-    <tspan x="25" dy="4.4">   #######                            ####                               #            ########</tspan>
-    <tspan x="25" dy="4.4">   #######                            ####                                           #########</tspan>
-    <tspan x="25" dy="4.4">   #######                            #####                                           ####### #</tspan>
-    <tspan x="25" dy="4.4">   #######                            #####                                          ######## #</tspan>
-    <tspan x="25" dy="4.4">   #######                             ####                          ###             ######   #</tspan>
-    <tspan x="25" dy="4.4">   #######                             #####                         ##            #######   #</tspan>
-    <tspan x="25" dy="4.4">   #######                             ######                                     ########</tspan>
-    <tspan x="25" dy="4.4">   #######                             ######             ######                  ##### #</tspan>
-    <tspan x="25" dy="4.4">   #######                              #######                                 ######</tspan>
-    <tspan x="25" dy="4.4">   ########                          ##  #######                              ########</tspan>
-    <tspan x="25" dy="4.4">    #######                           ####  ######                        # #######</tspan>
-    <tspan x="25" dy="4.4">    #######                             # ### #######                   #########</tspan>
-    <tspan x="25" dy="4.4">    ########                                ### #########          ############</tspan>
-    <tspan x="25" dy="4.4">     #######                                  ##############################</tspan>
-    <tspan x="25" dy="4.4">     ########                                   ##### ##################</tspan>
-    <tspan x="25" dy="4.4">     ##########                                     ######</tspan>
-    <tspan x="25" dy="4.4">      ###########                                         ########</tspan>
-    <tspan x="25" dy="4.4">       ###########</tspan>
-    <tspan x="25" dy="4.4">        ###########</tspan>
-    <tspan x="25" dy="4.4">         #########</tspan>
-    <tspan x="25" dy="4.4">         ###########</tspan>
-    <tspan x="25" dy="4.4">          ##########</tspan>
-    <tspan x="25" dy="4.4">           ##########</tspan>
-    <tspan x="25" dy="4.4">            #########</tspan>
-    <tspan x="25" dy="4.4">              #########</tspan>
-    <tspan x="25" dy="4.4">               #########</tspan>
-    <tspan x="25" dy="4.4">                 #########</tspan>
-    <tspan x="25" dy="4.4">                  #########</tspan>
-    <tspan x="25" dy="4.4">                    ########</tspan>
-    <tspan x="25" dy="4.4">                     ##########</tspan>
-    <tspan x="25" dy="4.4">                       ##########</tspan>
-    <tspan x="25" dy="4.4">                         ##########</tspan>
-    <tspan x="25" dy="4.4">                            ########</tspan>
-    <tspan x="25" dy="4.4">                              ######### #</tspan>
-    <tspan x="25" dy="4.4">                                 ##########</tspan>
-    <tspan x="25" dy="4.4">                                     ########</tspan>
-    <tspan x="25" dy="4.4">                                         ########</tspan>
-    <tspan x="25" dy="4.4">                                                #########</tspan>
-  </text>
+  <!-- ASCII Debian swirl (left, red, larger) -->
+  <text x="70" y="304" font-family="monospace" font-size="5.4" fill="#F85149" xml:space="preserve"><tspan x="70" dy="0">#####</tspan><tspan x="70" dy="5.4">                                        ###########  ##    #</tspan><tspan x="70" dy="5.4">                                    ##############################</tspan><tspan x="70" dy="5.4">                                ######################################</tspan><tspan x="70" dy="5.4">                             ################################################</tspan><tspan x="70" dy="5.4">                          #######################################################</tspan><tspan x="70" dy="5.4">                       #############################################################</tspan><tspan x="70" dy="5.4">                     ########################                 ########################</tspan><tspan x="70" dy="5.4">                   ######################                           ####################</tspan><tspan x="70" dy="5.4">                 ######################                                 ##################</tspan><tspan x="70" dy="5.4">               ##################                                         #################</tspan><tspan x="70" dy="5.4">              #################                                             #################</tspan><tspan x="70" dy="5.4">             ################                                                 ################</tspan><tspan x="70" dy="5.4">            #############                                                      ################</tspan><tspan x="70" dy="5.4">     ##    ############                                                          ###############</tspan><tspan x="70" dy="5.4">     #    ###########                                                             ##############</tspan><tspan x="70" dy="5.4">        ###########                                                                ########  ###</tspan><tspan x="70" dy="5.4">       ##########                                                                   ######### ##</tspan><tspan x="70" dy="5.4">      ##########                                   ############                     #########  #</tspan><tspan x="70" dy="5.4">  ## ##########                                ####################                  #########  #</tspan><tspan x="70" dy="5.4">  #  ##########                              #######              ###                #########  ##</tspan><tspan x="70" dy="5.4">    #########                               #####                    #               ########    #</tspan><tspan x="70" dy="5.4">    #########                             #####                                       #########</tspan><tspan x="70" dy="5.4">   #########                             ####                                         ########</tspan><tspan x="70" dy="5.4">   ########                             ####                                          #########</tspan><tspan x="70" dy="5.4">   ########                             ###                                           #########</tspan><tspan x="70" dy="5.4">   #######                             ####                             ##            #########</tspan><tspan x="70" dy="5.4">   #######                            ####                               #            ########</tspan><tspan x="70" dy="5.4">   #######                            ####                                           #########</tspan><tspan x="70" dy="5.4">   #######                            #####                                           ####### #</tspan><tspan x="70" dy="5.4">   #######                            #####                                          ######## #</tspan><tspan x="70" dy="5.4">   #######                             ####                          ###             ######   #</tspan><tspan x="70" dy="5.4">   #######                             #####                         ##            #######   #</tspan><tspan x="70" dy="5.4">   #######                             ######                                     ########</tspan><tspan x="70" dy="5.4">   #######                             ######             ######                  ##### #</tspan><tspan x="70" dy="5.4">   #######                              #######                                 ######</tspan><tspan x="70" dy="5.4">   ########                          ##  #######                              ########</tspan><tspan x="70" dy="5.4">    #######                           ####  ######                        # #######</tspan><tspan x="70" dy="5.4">    #######                             # ### #######                   #########</tspan><tspan x="70" dy="5.4">    ########                                ### #########          ############</tspan><tspan x="70" dy="5.4">     #######                                  ##############################</tspan><tspan x="70" dy="5.4">     ########                                   ##### ##################</tspan><tspan x="70" dy="5.4">     ##########                                     ######</tspan><tspan x="70" dy="5.4">      ###########                                         ########</tspan><tspan x="70" dy="5.4">       ###########</tspan><tspan x="70" dy="5.4">        ###########</tspan><tspan x="70" dy="5.4">         #########</tspan><tspan x="70" dy="5.4">         ###########</tspan><tspan x="70" dy="5.4">          ##########</tspan><tspan x="70" dy="5.4">           ##########</tspan><tspan x="70" dy="5.4">            #########</tspan><tspan x="70" dy="5.4">              #########</tspan><tspan x="70" dy="5.4">               #########</tspan><tspan x="70" dy="5.4">                 #########</tspan><tspan x="70" dy="5.4">                  #########</tspan><tspan x="70" dy="5.4">                    ########</tspan><tspan x="70" dy="5.4">                     ##########</tspan><tspan x="70" dy="5.4">                       ##########</tspan><tspan x="70" dy="5.4">                         ##########</tspan><tspan x="70" dy="5.4">                            ########</tspan><tspan x="70" dy="5.4">                              ######### #</tspan><tspan x="70" dy="5.4">                                 ##########</tspan><tspan x="70" dy="5.4">                                     ########</tspan><tspan x="70" dy="5.4">                                         ########</tspan><tspan x="70" dy="5.4">                                                #########</tspan></text>
 
   <!-- Right column: arsenal -->
-  <text x="400" y="382" fill="#8B949E" font-family="monospace" font-size="11">┌──(root@debian)-[~/arsenal]</text>
-  <text x="400" y="400" fill="#FFFFFF" font-family="monospace" font-size="11">└─$ <tspan fill="#58A6FF">ls -l --category</tspan></text>
+  <text x="410" y="322" fill="#8B949E" font-family="monospace" font-size="12">┌──(root@debian)-[~/arsenal]</text>
+  <text x="410" y="344" fill="#FFFFFF" font-family="monospace" font-size="12">└─$ <tspan fill="#58A6FF">ls -l --category</tspan></text>
 
-  <g font-family="monospace" font-size="9.5">
-    <text x="418" y="422" fill="#3FB950">[+] OS         : Windows 11, Linux Debian (Daily Driver)</text>
-    <text x="418" y="438" fill="#FFFFFF">[+] Network    : Wireshark, Tshark, Suricata, Mikrotik</text>
-    <text x="418" y="454" fill="#FFFFFF">[+] Forensics  : Autopsy, EVTX</text>
-    <text x="418" y="470" fill="#FFFFFF">[+] SIEM       : Wazuh, Sentinel</text>
-    <text x="418" y="486" fill="#FFFFFF">[+] Pwn        : GDB, pwntools, Ghidra</text>
-    <text x="418" y="502" fill="#FFFFFF">[+] Cloud      : Azure, OCI</text>
-    <text x="418" y="518" fill="#FFFFFF">[+] Prog &amp; DB  : Bash, PowerShell, Python, C, MySQL</text>
-    <text x="418" y="534" fill="#FFFFFF">[+] Other      : Crowdsec, Nginx/Apache2, Wireguard</text>
+  <g font-family="monospace" font-size="11">
+    <text x="428" y="368" fill="#3FB950">[+] OS         : Windows 11, Linux Debian (Daily Driver)</text>
+    <text x="428" y="386" fill="#FFFFFF">[+] Network    : Wireshark, Tshark, Suricata, Mikrotik</text>
+    <text x="428" y="404" fill="#FFFFFF">[+] Forensics  : Autopsy, EVTX</text>
+    <text x="428" y="422" fill="#FFFFFF">[+] SIEM       : Wazuh, Sentinel</text>
+    <text x="428" y="440" fill="#FFFFFF">[+] Pwn        : GDB, pwntools, Ghidra</text>
+    <text x="428" y="458" fill="#FFFFFF">[+] Cloud      : Azure, OCI</text>
+    <text x="428" y="476" fill="#FFFFFF">[+] Prog &amp; DB  : Bash, PowerShell, Python, C, MySQL</text>
+    <text x="428" y="494" fill="#FFFFFF">[+] Other      : Crowdsec, Nginx/Apache2, Wireguard</text>
   </g>
 
   <!-- Right column: social media -->
-  <text x="400" y="562" fill="#FFFFFF" font-family="monospace" font-size="11">└─$ <tspan fill="#58A6FF">cat social.txt</tspan></text>
+  <text x="410" y="524" fill="#FFFFFF" font-family="monospace" font-size="12">└─$ <tspan fill="#58A6FF">cat social.txt</tspan></text>
 
-  <g font-family="monospace" font-size="9.5">
+  <g font-family="monospace" font-size="11">
     <!-- GitHub -->
-    <rect x="418" y="574" width="14" height="14" rx="3" fill="#6E7681"/>
-    <text x="425" y="584" text-anchor="middle" fill="#FFFFFF" font-size="8" font-weight="bold">G</text>
-    <text x="438" y="584" fill="#C9D1D9">GitHub   : andry968</text>
+    <rect x="428" y="538" width="16" height="16" rx="3" fill="#6E7681"/>
+    <text x="436" y="550" text-anchor="middle" fill="#FFFFFF" font-size="9" font-weight="bold">G</text>
+    <text x="452" y="550" fill="#C9D1D9">GitHub   : andry968</text>
 
     <!-- LinkedIn -->
-    <rect x="418" y="592" width="14" height="14" rx="3" fill="#0A66C2"/>
-    <text x="425" y="602" text-anchor="middle" fill="#FFFFFF" font-size="7" font-weight="bold">in</text>
-    <text x="438" y="602" fill="#C9D1D9">LinkedIn : andrymuh</text>
+    <rect x="428" y="558" width="16" height="16" rx="3" fill="#0A66C2"/>
+    <text x="436" y="570" text-anchor="middle" fill="#FFFFFF" font-size="8" font-weight="bold">in</text>
+    <text x="452" y="570" fill="#C9D1D9">LinkedIn : andrymuh</text>
 
     <!-- Medium -->
-    <rect x="418" y="610" width="14" height="14" rx="3" fill="#FFFFFF"/>
-    <text x="425" y="620" text-anchor="middle" fill="#000000" font-size="8" font-weight="bold">M</text>
-    <text x="438" y="620" fill="#C9D1D9">Medium   : yrddry79</text>
+    <rect x="428" y="578" width="16" height="16" rx="3" fill="#FFFFFF"/>
+    <text x="436" y="590" text-anchor="middle" fill="#000000" font-size="9" font-weight="bold">M</text>
+    <text x="452" y="590" fill="#C9D1D9">Medium   : yrddry79</text>
 
     <!-- Instagram -->
-    <rect x="418" y="628" width="14" height="14" rx="3" fill="#E4405F"/>
-    <text x="425" y="638" text-anchor="middle" fill="#FFFFFF" font-size="6.5" font-weight="bold">IG</text>
-    <text x="438" y="638" fill="#C9D1D9">IG       : andry_2511</text>
+    <rect x="428" y="598" width="16" height="16" rx="3" fill="#E4405F"/>
+    <text x="436" y="610" text-anchor="middle" fill="#FFFFFF" font-size="7" font-weight="bold">IG</text>
+    <text x="452" y="610" fill="#C9D1D9">IG       : andry_2511</text>
   </g>
 </svg>
